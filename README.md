@@ -1,4 +1,4 @@
-# E commerce
+# E-commerce
 O projeto é sobre uma empresa de comércio eletrônico que vende roupas online, que também disponibiliza sessões de consultoria e vestuário na loja. Os clientes entram na loja, têm sessões / reuniões com um estilista pessoal, então podem ir para casa e encomendarem em um aplicativo mobile ou site para a roupa que desejam.
 
 A empresa precisa decidir se deve concentrar seus esforços em aplicativos móveis ou em seu site.
@@ -10,4 +10,6 @@ Temos uma base de dados em csv com informações do cliente como e-mail, endere�
 * Lenght of Membership: Há quantos anos o cliente é membro.
 
 Para a realização deste projeto foram utilizados análise exploratória e regressão linear. 
+
+Bibliotecas utilizadas para executar o projeto: pandas, numpy, matplotlib.pyplot, seaborn, scikit-learn
   
